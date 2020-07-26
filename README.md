@@ -1,6 +1,7 @@
 # Movie_ETL
 * Use wikipdeia.movies.json, kaggle_data (movies_metadata.csv) and ratings.csv to extract, transform and load data into sql tables.
 * Inspect , clean and organize data for accuracy 
+* Create one function  to import, clean and transform data. 
 * Create a movie and ratings table in the sql 
 ## Assumptions 
 * Box office/Budget data has two main forms : 1234.million and 123,456,789. 
